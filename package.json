@@ -1,0 +1,19 @@
+{
+  "name": "patientportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayleigh23788/patientportal.git"
+  },
+  "author": "Ju Yeun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayleigh23788/patientportal/issues"
+  },
+  "homepage": "https://github.com/kayleigh23788/patientportal#readme"
+}
