@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/kayleigh23788/patientportal.git"
   },
   "author": "Ju Yeun",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/kayleigh23788/patientportal/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/kayleigh23788/patientportal#readme"
 }
